@@ -18,8 +18,7 @@ public class ProcessoSeletivo{
             continuarTentando = !atendeu;
             if(continuarTentando)
             tentativasRealizadas++;
-            else
-            System.out.println("CONTATO REALIZADO COM SUCESSO");
+            else System.out.println("CONTATO REALIZADO COM SUCESSO");
         }while(continuarTentando && tentativasRealizadas <3);
 
         if(atendeu)
