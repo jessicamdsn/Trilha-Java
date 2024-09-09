@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Banco-desafio/Banco-desafio.iml" filepath="$PROJECT_DIR$/Banco-desafio/Banco-desafio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lanchonete/Lanchonete.iml" filepath="$PROJECT_DIR$/Lanchonete/Lanchonete.iml" />
-      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/POO-desafio/POO-desafio.iml" filepath="$PROJECT_DIR$/POO-desafio/POO-desafio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ProcessoSeletivo/ProcessoSeletivo.iml" filepath="$PROJECT_DIR$/ProcessoSeletivo/ProcessoSeletivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/Banco-desafio/Banco-desafio.iml" filepath="$PROJECT_DIR$/Poo-content/Banco-desafio/Banco-desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Poo-content/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basico/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/Basico/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/Interface/Interface.iml" filepath="$PROJECT_DIR$/Poo-content/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/Lanchonete/Lanchonete.iml" filepath="$PROJECT_DIR$/Poo-content/Lanchonete/Lanchonete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/POO/POO.iml" filepath="$PROJECT_DIR$/Poo-content/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-content/POO-desafio/POO-desafio.iml" filepath="$PROJECT_DIR$/Poo-content/POO-desafio/POO-desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basico/ProcessoSeletivo/ProcessoSeletivo.iml" filepath="$PROJECT_DIR$/Basico/ProcessoSeletivo/ProcessoSeletivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Trilha-Java.iml" filepath="$PROJECT_DIR$/.idea/Trilha-Java.iml" />
     </modules>
   </component>
